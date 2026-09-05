@@ -1,8 +1,8 @@
-# BrokenFlow
+# EngineRoom
 
 > Learning by building. Data • Machine Learning • AI Engineering • Software Engineering
 
-BrokenFlow is my public learning journey toward becoming an AI Engineer.
+EngineRoom is my public learning journey toward becoming an AI Engineer.
 
 Instead of collecting isolated exercises, this repository documents the design, implementation and evolution of real projects covering the complete data and AI pipeline.
 
