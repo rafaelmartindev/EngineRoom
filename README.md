@@ -62,7 +62,7 @@ Instead of collecting isolated exercises, this repository documents the design, 
 # Repository Structure
 
 ```
-brokenflow/
+EngineRoom/
 │
 ├── docs/
 ├── notebooks/
