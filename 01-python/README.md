@@ -1,4 +1,4 @@
-Python is the foundation of the entire BrokenFlow journey.
+Python is the foundation of the entire EngineRoom journey.
 
 The goal of this module is not only to learn the language syntax but to develop good programming habits that will later be applied to data engineering, machine learning and AI systems.
 
