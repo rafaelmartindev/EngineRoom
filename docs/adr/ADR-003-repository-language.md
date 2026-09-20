@@ -46,7 +46,7 @@ Exceptions may be made for documents explicitly intended for Spanish-speaking au
 
 ### Alternatives Considered
 
-**Bilingual documentation**
+#### Bilingual documentation
 
 Maintaining both English and Spanish documentation was considered.
 
