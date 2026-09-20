@@ -31,6 +31,8 @@ Each module will contain its own documentation, examples, exercises and projects
 
 Repository-wide documentation will remain outside individual modules.
 
+Repository naming conventions are defined in ADR-004 and apply consistently across all engineering domains.
+
 ## Consequences
 
 ### Positive
